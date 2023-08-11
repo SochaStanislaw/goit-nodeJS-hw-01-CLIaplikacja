@@ -2,12 +2,14 @@
 
 <!--  -->
 
-Uruchomienie aplikacji za pomocą Node.js:
-npm start
+repo: https://github.com/SochaStanislaw/goit-nodeJS-hw-01-CLIaplikacja
 
 <!--  -->
 
-Uruchomienie aplikacji za pomocą nodemon:
-npm run start:dev
+screenshots host:
+https://ibb.co/tZ9vgNf
+https://ibb.co/mTWJcnG
+https://ibb.co/gtsHRqr
+https://ibb.co/HVndNdM
 
 <!--  -->
